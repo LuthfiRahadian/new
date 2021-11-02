@@ -2,4 +2,8 @@
   .contents-item {
     width: 100%;
   }
+
+  .footer {
+    text-align: center;
+  }
 }
